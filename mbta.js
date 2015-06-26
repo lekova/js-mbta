@@ -77,4 +77,4 @@ var stopsCount = function(getOnLine, getOnStop, getOffLine, getOffStop) {
 // console.log(stopsCount(mbta['red line'], 'south station', mbta['orange line'], 'chinatown'));
 // console.log(stopsCount(mbta['red line'], 'kendall', mbta['red line'], 'south station'));
 // console.log(stopsCount(mbta['green line'], 'bolyston', mbta['red line'], 'harvard'));
-// console.log(stopsCount(mbta['green line'], 'bolyston', mbta['orange line'], 'heymarket'));
+console.log(stopsCount(mbta['green line'], 'bolyston', mbta['orange line'], 'market'));
